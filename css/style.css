@@ -64,16 +64,18 @@ p{
     "main main main main"
     "article article article article"
     "img img img img"
-    "footer footer footer footer";
-    
-   
-    
+    "footer footer footer footer";    
+}
+
+ul{
+    text-align: center;
 }
 
 header{
     grid-area: header;
     background-color:#4dccd0 ;
     margin: 10px 10px 10px 10px;
+    text-align: center;
 }
 
 main{
